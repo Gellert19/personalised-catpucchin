@@ -4,7 +4,12 @@
     "type": "color",
     "authors": [
         {
-            "name": ".gellert, Catppuccin"
+            "name": "Gellert",
+            "id": "264874866828771349"
+        },
+        {
+            "name": "Catppuccin",
+            "url": "https://catppuccin.com"
         }
     ],
     "main": {
