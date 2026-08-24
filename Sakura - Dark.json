@@ -381,5 +381,6 @@
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#f8e2e6"
-  }
+  },
+  "spec": 2
 }
