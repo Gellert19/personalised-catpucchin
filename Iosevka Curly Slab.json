@@ -1,7 +1,7 @@
 {
     "spec": 1,
     "name": "Iosevka Curly Slab",
-    "previewText": "A font that is open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family,designed for writing code, using in terminals, and preparing technical documents.",
+    "previewText": "A font that is open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/Gellert19/personalised-catpucchin/raw/refs/heads/main/PkgTTF-IosevkaCurlySlab/IosevkaCurlySlab-ExtendedExtraBold.ttf",
         "ggsans-Bold": "https://github.com/Gellert19/personalised-catpucchin/raw/refs/heads/main/PkgTTF-IosevkaCurlySlab/IosevkaCurlySlab-ExtendedBold.ttf",
