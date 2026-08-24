@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Iosevka",
+    "previewText": "A font that is open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-ExtendedExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-ExtendedMedium.ttf",
+        "NotoSans-Normal": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-Extended.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-ExtendedItalic.ttf",
+        "NotoSans-Semibold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-ExtendedSemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Gellert19/personalised-catpucchin/blob/main/Iosevka-Sans-Serif/Iosevka-SemiBold.ttf"
+    }
+}
